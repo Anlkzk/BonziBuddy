@@ -1,0 +1,7 @@
+C:\Users\Anil\iCreative-Mirror-master\Jhin\Jhin\bin\Release\Jhin.exe.config
+C:\Users\Anil\iCreative-Mirror-master\Jhin\Jhin\bin\Release\Jhin.exe
+C:\Users\Anil\iCreative-Mirror-master\Jhin\Jhin\bin\Release\Jhin.pdb
+C:\Users\Anil\iCreative-Mirror-master\Jhin\Jhin\bin\Release\Newtonsoft.Json.dll
+C:\Users\Anil\iCreative-Mirror-master\Jhin\Jhin\obj\Debug\Jhin.csprojResolveAssemblyReference.cache
+C:\Users\Anil\iCreative-Mirror-master\Jhin\Jhin\obj\Debug\Jhin.exe
+C:\Users\Anil\iCreative-Mirror-master\Jhin\Jhin\obj\Debug\Jhin.pdb
