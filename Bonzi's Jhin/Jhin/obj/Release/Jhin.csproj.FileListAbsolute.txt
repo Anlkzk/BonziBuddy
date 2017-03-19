@@ -1,0 +1,11 @@
+C:\Users\Anil\iCreative-Mirror-master\Jhin\Jhin\bin\Release\Jhin.exe.config
+C:\Users\Anil\iCreative-Mirror-master\Jhin\Jhin\bin\Release\Jhin.exe
+C:\Users\Anil\iCreative-Mirror-master\Jhin\Jhin\bin\Release\Jhin.pdb
+C:\Users\Anil\iCreative-Mirror-master\Jhin\Jhin\bin\Release\EloBuddy.dll
+C:\Users\Anil\iCreative-Mirror-master\Jhin\Jhin\bin\Release\EloBuddy.SDK.dll
+C:\Users\Anil\iCreative-Mirror-master\Jhin\Jhin\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Anil\iCreative-Mirror-master\Jhin\Jhin\bin\Release\SharpDX.dll
+C:\Users\Anil\iCreative-Mirror-master\Jhin\Jhin\bin\Release\Newtonsoft.Json.dll
+C:\Users\Anil\iCreative-Mirror-master\Jhin\Jhin\obj\Release\Jhin.csprojResolveAssemblyReference.cache
+C:\Users\Anil\iCreative-Mirror-master\Jhin\Jhin\obj\Release\Jhin.exe
+C:\Users\Anil\iCreative-Mirror-master\Jhin\Jhin\obj\Release\Jhin.pdb
